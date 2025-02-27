@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Marks</class>
+ <widget class="QDialog" name="Marks">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1121</width>
+    <height>669</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>90</y>
+     <width>1101</width>
+     <height>571</height>
+    </rect>
+   </property>
+   <property name="columnCount">
+    <number>0</number>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="Subjects">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>251</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+    </font>
+   </property>
+   <item>
+    <property name="text">
+     <string>Lineal Algebra</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Calculus</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Computer Science (CS)</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Math Statistics</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Geometric analysis</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Data Bases</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Machine Learning</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>English</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QComboBox" name="cb">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>20</y>
+     <width>141</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+    </font>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

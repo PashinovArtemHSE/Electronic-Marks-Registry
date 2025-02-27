@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>HomeWorkStudent</class>
+ <widget class="QDialog" name="HomeWorkStudent">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>898</width>
+    <height>641</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>871</width>
+     <height>611</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>Lineal_Algebra</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Calculus</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Computer_Science (CS)</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Math_Statistics</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Geometric_analysis</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Data_Bases</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Machine_Learning</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>English</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>9</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>10</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

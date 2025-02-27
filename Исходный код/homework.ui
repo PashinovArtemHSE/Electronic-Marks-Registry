@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Homework</class>
+ <widget class="QDialog" name="Homework">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>852</width>
+    <height>315</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableWidget" name="hw">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>831</width>
+     <height>281</height>
+    </rect>
+   </property>
+   <property name="rowCount">
+    <number>8</number>
+   </property>
+   <property name="columnCount">
+    <number>10</number>
+   </property>
+   <row>
+    <property name="text">
+     <string>Lineal_Algebra</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Calculus</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Computer_Science_(CS)</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Math_Statistics</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Geometric_Anylysis</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Data_Bases</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Machine_Learning</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>English</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>Дата 1</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Дата 2</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Дата 3</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Дата 4</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Дата 5</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Дата 6</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Дата 7</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Дата 8</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Дата 9</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Дата 10</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
